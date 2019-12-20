@@ -1,0 +1,1 @@
+# cscart-addon-filter-by-category
