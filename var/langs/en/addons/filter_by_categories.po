@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::filter_by_categories"
+msgid "Filter By Categories"
+msgstr "Filter By Categories"
+
+msgctxt "Addons::description::filter_by_categories"
+msgid "Allows to add filter by categories"
+msgstr "Allows to add filter by categories"

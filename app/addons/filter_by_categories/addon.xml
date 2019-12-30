@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>filter_by_categories</id>
+    <version>1.9</version>
+    <priority>2900</priority>
+    <position>0</position>
+    <status>active</status>
+    <supplier>iMode d.o.o</supplier>
+    <supplier_link>https://www.imode.si</supplier_link>
+    <default_language>en</default_language><authors>
+        <author>
+            <name>Georgi Kolev</name>
+            <email>georgi.kolev@imode.si</email>
+            <url>https://www.imode.si</url>
+        </author>
+    </authors>
+</addon>
